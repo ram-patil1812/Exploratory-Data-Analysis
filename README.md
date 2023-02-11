@@ -16,6 +16,7 @@ matplotlib & saeborn.
 
 So while doing EDA I came with some question and found some informative insight thrrough data manipulation and visualization.
 
-I found challenging in rhis project is that there are lots of categorical datapoint which not in structured way so i handle them and make it suitable for ease of 
-visualization & analysis. Other datapoint are dates and duration which is not in pandas timestamp so I convert them for better use in further analysis. It is real time data of
-streaming platform Netflix which is decent dataset for visualization and analysis.
+I found challenging in this project is that there are lots of categorical datapoint which not in structured way so i handle them and make it suitable for ease of 
+visualization & analysis. Other datapoint are dates and duration which is not in pandas timestamp so I convert them for better use in further analysis. It is real time data of streaming platform Netflix which is decent dataset for visualization and analysis.
+
+I also try to visualize & analyze in tableau and create a dashboard.
